@@ -1,0 +1,20 @@
+.message_background-color {
+  background-color: #f9f7f2;
+}
+
+.message {
+  display: flex;
+  padding: 12px;
+}
+
+.message__text {
+  margin: 0;
+  line-height: 24px;
+}
+
+.message__date {
+  font-family: "Roboto Regular";
+  font-size: 11px;
+  color: #9d9d9d;
+  line-height: 25px;
+}

@@ -1,0 +1,12 @@
+.chats {
+  display: flex;
+  width: 879px;
+  height: 758px;
+  position: relative;
+}
+
+.chats__line {
+  width: 2px;
+  height: 100%;
+  background-color: #ebe9e4;
+}
