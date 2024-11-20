@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/TravelAsk/static/css/main.bc9660a3.css",
+    "main.js": "/TravelAsk/static/js/main.71e9d0d6.js",
+    "static/media/Roboto-Regular.ttf": "/TravelAsk/static/media/Roboto-Regular.cfe3602cde0ad1c9ae0e.ttf",
+    "static/media/Roboto-Medium.ttf": "/TravelAsk/static/media/Roboto-Medium.681f96db2bcb69f520b5.ttf",
+    "static/media/Барселона_Испания.png": "/TravelAsk/static/media/Барселона_Испания.d8a1f4e9c9a9d87fbd6e.png",
+    "static/media/IMG_2299.jpg": "/TravelAsk/static/media/IMG_2299.32208621a7f5dfd94090.jpg",
+    "static/media/IMG_2675.jpg": "/TravelAsk/static/media/IMG_2675.9458be1f21900eb26c92.jpg",
+    "static/media/KievitPro-Medium.ttf": "/TravelAsk/static/media/KievitPro-Medium.fcb328025105eb9eb3d6.ttf",
+    "static/media/KievitPro-Bold.ttf": "/TravelAsk/static/media/KievitPro-Bold.374df3547b6b6ea17239.ttf",
+    "static/media/KievitPro-Light.ttf": "/TravelAsk/static/media/KievitPro-Light.a63da081610411eb2f65.ttf",
+    "static/media/KievitPro-Regular.ttf": "/TravelAsk/static/media/KievitPro-Regular.275a01ca32ee1ec07c19.ttf",
+    "static/media/IMG_2388.jpg": "/TravelAsk/static/media/IMG_2388.0a4287cdc688ef751d6b.jpg",
+    "static/media/author2.svg": "/TravelAsk/static/media/author2.ede4073ac9cbd91dd4fa7bf8c930273d.svg",
+    "static/media/author.svg": "/TravelAsk/static/media/author.faf864652c290e70fd9df44c365a476a.svg",
+    "static/media/stars.svg": "/TravelAsk/static/media/stars.a359551583c3c4cf9c73841b58d2f238.svg",
+    "static/media/like.svg": "/TravelAsk/static/media/like.ebf1cefe0f669e37bdefc6fa61749169.svg",
+    "index.html": "/TravelAsk/index.html",
+    "static/media/Send.svg": "/TravelAsk/static/media/Send.144382d98fb94a9b8d78.svg",
+    "static/media/flag.svg": "/TravelAsk/static/media/flag.38aacbacf843ee4e29f52ad21e1f49e0.svg",
+    "main.bc9660a3.css.map": "/TravelAsk/static/css/main.bc9660a3.css.map",
+    "main.71e9d0d6.js.map": "/TravelAsk/static/js/main.71e9d0d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc9660a3.css",
+    "static/js/main.71e9d0d6.js"
+  ]
+}
